@@ -1,0 +1,5 @@
+My name is Allen and I want some practice working with other people while using github to get more experience with collaboration! I graduated with a Business Administration degree and it feels like that happened forever ago.
+
+I have been fooling around with iOS programming for many years and have gone through all the tutorials and books that I could find. My current project for fun is making a website using Swift/Kitura.io that pairs with an iPhone app and is pretty much a blog/journal.
+
+Eventually I'd like to find an iOS developer job after I get a couple apps on the App Store.

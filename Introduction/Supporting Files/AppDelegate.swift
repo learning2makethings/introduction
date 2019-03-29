@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Introduction
 //
-//  Created by Allen Wong on 3/28/19.
+//  Created by Allen on 3/28/19.
 //  Copyright © 2019 Coding Buddies. All rights reserved.
 //
 
